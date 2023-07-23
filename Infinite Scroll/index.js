@@ -11,7 +11,7 @@ createImg = (numImgs = 10) => {
 createImg();
 window.addEventListener("scroll", () => {
   if (
-    Math.ceil(window.scrollY) ===
+    Math.ceil(window.scrollY) >=
     document.documentElement.scrollHeight - window.innerHeight
   ) {
     createImg();
