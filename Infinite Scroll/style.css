@@ -16,8 +16,9 @@ img {
   height: 30vh;
   text-align: center;
   margin: 10px 0;
-  background-color: rgb(92, 92, 186);
+  background-color: #044774;
   color: white;
   font-size: 3rem;
   font-weight: bold;
+  padding-top: 5rem;
 }
