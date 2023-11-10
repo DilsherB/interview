@@ -2,7 +2,7 @@ const URL = "https://source.unsplash.com/random/300x300?sig=";
 const container = document.querySelector(".container");
 const loadingIndicator = document.querySelector(".loading-indicator");
 
-createImg = (numImgs = 10) => {
+createImg = (numImgs = 9) => {
   // Show the loading indicator.
   loadingIndicator.style.display = "none";
 
