@@ -16,8 +16,8 @@ img {
   height: 30vh;
   text-align: center;
   margin: 10px 0;
-  background-color: blue;
+  background-color: rgb(92, 92, 186);
   color: white;
-  font-size: larger;
+  font-size: 3rem;
   font-weight: bold;
 }
